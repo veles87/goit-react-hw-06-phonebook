@@ -1,11 +1,11 @@
 import styled from '@emotion/styled';
 
 export const MyCard = styled.div`
-margin-top: 225px;
+margin-top: 100px;
 margin-left: auto;
 margin-right: auto;
 text-align: center;
-padding: 60px;
+padding: 20px 40px;
 background-color: rgba(0,255,221,.650);
 border-radius: 30px;
   max-width: 650px;
